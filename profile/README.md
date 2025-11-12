@@ -18,6 +18,7 @@ This repository collects real-world coding tasks across multiple languages and t
 
 ## ☕ Java Projects
 
+- [spring-boot-jdbc-mysql-demo](https://github.com/agentic-coding-durability-evalset/spring-boot-jdbc-mysql-demo): Spring Boot application with MySQL and JDBC
 - [spring-petclinic](https://github.com/agentic-coding-durability-evalset/spring-petclinic): Forked from [spring-petclinic](https://github.com/spring-projects/spring-petclinic)
 - [mybatis-spring-demo](https://github.com/agentic-coding-durability-evalset/mybatis-spring-demo): MyBatis demo with Spring Boot
 - [vaadin-demo](https://github.com/agentic-coding-durability-evalset/vaadin-demo): Vaadin demo with Spring Boot and H2
