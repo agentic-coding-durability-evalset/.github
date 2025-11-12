@@ -3,6 +3,18 @@ Agentic Coding Durability Evaluation Set
 
 This repository collects real-world coding tasks across multiple languages and tech stacks, with varying difficulty. It helps developers evaluate how durable different agentic coding products are when tackling diverse, practical programming work.
 
+## How to Use
+
+1. Choose a repository for the language/stack you care about.
+2. Open the project folder and read `Prompt.md` or `Prompt.zh.md`.
+3. Run the prompt in your chosen AI coding product (e.g., Qoder, Cursor, Windsurf, Kiro, Claude Code).
+4. Iterate until you personally judge the task “done.”
+   - This evaluation set intentionally does not include automated unit/integration/UI tests to decide completion.
+   - We rely on your human judgment, similar to real-world work where completeness, test coverage, visual acceptance, and maintainability vary by person.
+5. Keep the model tier comparable across products whenever possible.
+6. Record and compare consumption within your paid plan to evaluate durability.
+
+
 ## 🌐 JavaScript/TypeScript Projects
 
 - [vite-react-ts-demo](https://github.com/agentic-coding-durability-evalset/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and Tailwind CSS
