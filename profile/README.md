@@ -20,6 +20,10 @@ This repository collects real-world coding tasks across multiple languages and t
 - [vite-react-ts-demo](https://github.com/agentic-coding-durability-evalset/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and Tailwind CSS
 - [react-ts-demo](https://github.com/agentic-coding-durability-evalset/react-ts-demo): React.js demo with TypeScript
 - [react-js-demo](https://github.com/agentic-coding-durability-evalset/react-js-demo): React.js demo with JavaScript
+- [nextjs-demo](https://github.com/agentic-coding-durability-evalset/nextjs-demo): A React full-stack application demo project based on Next.js 16
+- [hono-node-demo](https://github.com/agentic-coding-durability-evalset/hono-node-demo): A Node.js Web application demo project based on the Hono framework
+- [fresh-demo](https://github.com/agentic-coding-durability-evalset/fresh-demo): A Deno full-stack Web application demo project based on the Fresh framework
+- [bun-react-demo](https://github.com/agentic-coding-durability-evalset/bun-react-demo): A full-stack application demo project based on Bun and React
 
 ## 🐍 Python Projects
 
@@ -42,6 +46,7 @@ This repository collects real-world coding tasks across multiple languages and t
 ## 🐹 Golang Projects
 
 - [gitea](https://github.com/agentic-coding-durability-evalset/gitea): Forked from [gitea](https://github.com/go-gitea/gitea)
+- [gin-demo](https://github.com/agentic-coding-durability-evalset/gin-demo): A Go Web application demo project based on the Gin framework
 
 ## 🌟 Other Projects
 
